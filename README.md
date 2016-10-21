@@ -10,7 +10,7 @@
 		$ret = GeoPhone::find('15901518888');
 		print_r( $ret );
 
-输入：
+输出：
 		
 		Array
 		(
